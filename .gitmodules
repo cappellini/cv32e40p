@@ -1,3 +1,0 @@
-[submodule "rtl/fpu_ss"]
-	path = rtl/fpu_ss
-	url = https://github.com/cappellini/fpu_ss.git
